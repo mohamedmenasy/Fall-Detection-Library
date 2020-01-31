@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fall Detection</string>
+    <string name="empty_recycler_text">No Detection Data Stored</string>
+</resources>
